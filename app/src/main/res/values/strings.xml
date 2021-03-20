@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SocialMedia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registration">click Here to Registartion</string>
+    <string name="Username">Username</string>
+    <string name="name">Enter Name</string>
+    <string name="password">Password</string>
+    <string name="email">Enter Email</string>
+    <string name="mobileno">Enter Mobile Number</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="post">Post</string>
+    <string name="follwing">Following</string>
+    <string name="follower">Followers</string>
+    <string name="fullname">Full name</string>
+    <string name="bio">Bio</string>
+    <string name="logout">logout</string>
+    <string name="setting">setting</string>
+
+
+</resources>
